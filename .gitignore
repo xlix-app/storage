@@ -1,0 +1,6 @@
+# IDE settings
+/.idea
+
+# Build files
+/target
+Cargo.lock

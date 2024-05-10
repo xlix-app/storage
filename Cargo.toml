@@ -1,0 +1,7 @@
+[package]
+name = "xlix-storage"
+version = "0.1.0-dev"
+edition = "2021"
+authors = ["FssAy"]
+
+[dependencies]
